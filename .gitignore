@@ -1,0 +1,13 @@
+# Arquivos compilados
+*.class
+/out/
+/target/
+
+# Configurações do IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Arquivos do sistema operacional (Ubuntu/Linux)
+*~
+.DS_Store
