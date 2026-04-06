@@ -23,6 +23,5 @@ public class conceitoNotaAluno {
             System.out.println("Aluno Reprovado");
         }
 
-
     }
 }
